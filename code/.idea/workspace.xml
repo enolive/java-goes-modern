@@ -6,7 +6,6 @@
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,12 +23,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="settings.gradle" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/settings.gradle">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
@@ -38,11 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RomanConverterTest.java" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/RomanConverterTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+            <state relative-caret-position="231">
+              <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="class#RomanToArabic#0;class#RomanConverterTest#0" />
@@ -52,20 +51,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RomanToArabicConversion.java" pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/RomanToArabicConversion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="143">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RomanConverter.java" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/RomanConverter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+            <state relative-caret-position="273">
+              <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -73,11 +72,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArabicToRomanConversion.java" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ArabicToRomanConversion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="27" column="53" lean-forward="true" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
+            <state relative-caret-position="546">
+              <caret line="27" column="53" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -85,7 +84,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -120,12 +119,12 @@
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
       <map>
-        <entry key="$PROJECT_DIR$" value="/usr/lib/gradle/4.7" />
+        <entry key="$PROJECT_DIR$" value="/usr/lib/gradle/4.8" />
       </map>
     </option>
     <option name="myGradleVersions">
       <map>
-        <entry key="$PROJECT_DIR$" value="4.7" />
+        <entry key="$PROJECT_DIR$" value="4.8" />
       </map>
     </option>
     <option name="availableProjects">
@@ -295,7 +294,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4579395371000" />
+        <entry key="$PROJECT_DIR$" value="4585944324000" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/build.gradle" value="4251816012" />
         <entry key="$PROJECT_DIR$/settings.gradle" value="2494541433" />
@@ -320,83 +319,83 @@
               <option name="name" value="roman-numbers" />
               <option name="projectBuildClasspath">
                 <list>
-                  <option value="/usr/lib/gradle/default/lib/gradle-docs-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/gradle-base-services-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/gradle-kotlin-dsl-tooling-models-0.16.3.jar" />
-                  <option value="/usr/lib/gradle/default/lib/gradle-launcher-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/gradle-kotlin-dsl-tooling-builders-0.16.3.jar" />
-                  <option value="/usr/lib/gradle/default/lib/gradle-installation-beacon-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/gradle-cli-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/gradle-base-services-groovy-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/gradle-tooling-api-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/gradle-build-option-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/gradle-wrapper-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/gradle-build-cache-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/gradle-model-groovy-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/gradle-process-services-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/gradle-resources-4.7.jar" />
+                  <option value="/usr/lib/gradle/default/lib/gradle-base-services-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/gradle-core-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/gradle-kotlin-dsl-tooling-models-0.17.5.jar" />
+                  <option value="/usr/lib/gradle/default/lib/gradle-kotlin-dsl-provider-spi-0.17.5.jar" />
+                  <option value="/usr/lib/gradle/default/lib/gradle-base-services-groovy-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/gradle-tooling-api-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/gradle-docs-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/gradle-kotlin-dsl-0.17.5.jar" />
+                  <option value="/usr/lib/gradle/default/lib/gradle-resources-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/gradle-installation-beacon-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/gradle-launcher-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/gradle-persistent-cache-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/gradle-jvm-services-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/gradle-kotlin-dsl-provider-plugins-0.17.5.jar" />
+                  <option value="/usr/lib/gradle/default/lib/ant-launcher-1.9.11.jar" />
+                  <option value="/usr/lib/gradle/default/lib/gradle-logging-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/gradle-build-cache-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/gradle-wrapper-4.8.jar" />
                   <option value="/usr/lib/gradle/default/lib/groovy-all-2.4.12.jar" />
-                  <option value="/usr/lib/gradle/default/lib/gradle-native-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/gradle-kotlin-dsl-0.16.3.jar" />
-                  <option value="/usr/lib/gradle/default/lib/ant-launcher-1.9.9.jar" />
-                  <option value="/usr/lib/gradle/default/lib/gradle-logging-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/ant-1.9.9.jar" />
-                  <option value="/usr/lib/gradle/default/lib/gradle-messaging-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/gradle-jvm-services-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/gradle-core-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/gradle-core-api-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/gradle-runtime-api-info-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/gradle-persistent-cache-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/gradle-model-core-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-resources-http-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-plugin-use-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-build-comparison-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-ide-native-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-version-control-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-dependency-management-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-language-native-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-ivy-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-testing-native-4.7.jar" />
+                  <option value="/usr/lib/gradle/default/lib/gradle-core-api-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/gradle-messaging-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/gradle-process-services-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/ant-1.9.11.jar" />
+                  <option value="/usr/lib/gradle/default/lib/gradle-build-option-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/gradle-runtime-api-info-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/gradle-cli-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/gradle-native-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/gradle-kotlin-dsl-tooling-builders-0.17.5.jar" />
+                  <option value="/usr/lib/gradle/default/lib/gradle-model-core-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/gradle-model-groovy-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-ide-play-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-javascript-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-resources-sftp-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-announce-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-platform-base-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-tooling-api-builders-4.8.jar" />
                   <option value="/usr/lib/gradle/default/lib/plugins/ivy-2.2.0.jar" />
-                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-resources-s3-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-build-init-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-resources-gcs-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-language-java-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-antlr-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-reporting-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-platform-jvm-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-javascript-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-osgi-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-ear-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-plugins-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-maven-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-language-groovy-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-testing-junit-platform-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-language-jvm-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-build-cache-http-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-ide-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-composite-builds-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-resources-sftp-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-ide-play-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-workers-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-code-quality-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-jacoco-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-scala-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-plugin-development-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-signing-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-testing-jvm-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-platform-base-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-diagnostics-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-language-scala-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-platform-play-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-platform-native-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-tooling-api-builders-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-publish-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-testing-base-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-test-kit-4.7.jar" />
-                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-announce-4.7.jar" />
-                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
-                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-reporting-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-test-kit-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-platform-native-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-testing-base-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-diagnostics-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-language-native-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-language-scala-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-antlr-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-ide-native-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-signing-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-testing-native-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-language-jvm-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-build-comparison-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-publish-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-workers-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-build-init-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-platform-play-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-language-groovy-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-resources-http-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-composite-builds-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-osgi-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-ear-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-ivy-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-ide-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-platform-jvm-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-resources-gcs-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-plugin-development-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-plugin-use-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-plugins-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-language-java-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-code-quality-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-maven-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-dependency-management-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-resources-s3-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-testing-jvm-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-build-cache-http-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-version-control-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-scala-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-jacoco-4.8.jar" />
+                  <option value="/usr/lib/gradle/default/lib/plugins/gradle-testing-junit-platform-4.8.jar" />
                 </list>
               </option>
             </ExternalProjectBuildClasspathPojo>
@@ -435,9 +434,6 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="67" />
@@ -647,6 +643,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -693,7 +690,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
@@ -711,12 +707,13 @@
     <property name="hindentPath" value="$USER_HOME$/.cabal/bin/hindent" />
     <property name="hlintFlags" value="" />
     <property name="hlintPath" value="$USER_HOME$/.cabal/bin/hlint" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="stylishHaskellFlags" value="" />
     <property name="stylishHaskellPath" value="$USER_HOME$/.cabal/bin/stylish-haskell" />
   </component>
@@ -743,78 +740,43 @@
   <component name="RunManager" selected="JUnit.All in roman-numbers_test">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="All in roman-numbers_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="roman-numbers_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="package" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="RomanToArabicTest.it_should_convert_V_to_5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="roman-numbers_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="RomanToArabicTest" />
       <option name="METHOD_NAME" value="it_should_convert_V_to_5" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
       <item itemvalue="JUnit.All in roman-numbers_test" />
@@ -840,6 +802,7 @@
       <workItem from="1526050166426" duration="11101000" />
       <workItem from="1527012959480" duration="24000" />
       <workItem from="1527294897886" duration="4044000" />
+      <workItem from="1528652963926" duration="34000" />
     </task>
     <task id="LOCAL-00001" summary="basic setup">
       <created>1526050374987</created>
@@ -1066,47 +1029,46 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15169000" />
+    <option name="totallyTimeSpent" value="15203000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="27" width="1853" height="1053" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Key Promoter X" order="3" />
-      <window_info anchor="right" id="PlantUML" order="3" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="sbt" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5002767" side_tool="true" weight="0.32925472" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.4997233" weight="0.32887402" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.257886" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4997233" weight="0.39910814" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.5019369" side_tool="true" weight="0.32998884" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4980631" weight="0.32998884" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4997233" weight="0.32998884" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.255119" />
-      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="7" />
-      <window_info anchor="bottom" auto_hide="true" id="Problems" order="7" sideWeight="0.5002767" side_tool="true" weight="0.32998884" />
-      <window_info anchor="right" id="Gradle" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4980631" weight="0.32998884" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4997233" weight="0.39910814" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.4997233" weight="0.32887402" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5002767" side_tool="true" weight="0.32925472" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.5019369" side_tool="true" weight="0.32998884" />
+      <window_info anchor="bottom" auto_hide="true" id="Problems" order="12" sideWeight="0.5002767" side_tool="true" weight="0.32998884" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" sideWeight="0.4997233" weight="0.32998884" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="PlantUML" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="sbt" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Key Promoter X" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Gradle" order="9" />
+      <window_info anchor="right" id="Database" order="10" />
+      <window_info anchor="right" id="Palette&#9;" order="11" />
+      <window_info anchor="right" id="Theme Preview" order="12" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1144,6 +1106,9 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
     <MESSAGE value="conversion to arabic functional style" />
     <MESSAGE value="implemented additional rules and replaced tuple with explicit data class" />
     <MESSAGE value="implemented complete ruleset" />
@@ -1171,99 +1136,7 @@
     <MESSAGE value="foldr instead of foldl" />
     <option name="LAST_COMMIT_MESSAGE" value="foldr instead of foldl" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="3" />
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/RomanToArabicTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="168">
-            <caret line="8" column="85" selection-start-line="8" selection-start-column="85" selection-end-line="8" selection-end-column="85" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/RomanConverterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="class#RomanToArabic#0;class#RomanConverterTest#0" />
-            <element signature="class#BackAndForth#0;class#RomanConverterTest#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/RomanToArabicTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="168">
-            <caret line="8" column="85" selection-start-line="8" selection-start-column="85" selection-end-line="8" selection-end-column="85" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/RomanConverterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="class#RomanToArabic#0;class#RomanConverterTest#0" />
-            <element signature="class#BackAndForth#0;class#RomanConverterTest#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="jrt:///usr/lib/jvm/default-java!/java.base/java/util/stream/ReferencePipeline.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="434">
@@ -1292,6 +1165,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/RomanToArabicTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Rule.java" />
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/RomanConverterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#RomanToArabic#0;class#RomanConverterTest#0" />
+            <element signature="class#BackAndForth#0;class#RomanConverterTest#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RomanConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ArabicToRomanConversion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="27" column="53" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1302,69 +1219,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/RomanToArabicTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/RomanConverterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="class#RomanToArabic#0;class#RomanConverterTest#0" />
-            <element signature="class#BackAndForth#0;class#RomanConverterTest#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ArabicToRomanConversion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="27" column="53" lean-forward="true" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Rule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
-          <folding>
-            <element signature="method#getArabic#0;class#Rule#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RomanConverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/RomanToArabicConversion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="143">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
