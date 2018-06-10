@@ -13,11 +13,11 @@
 
 <-->
 
-## FP more and more popular
+## Why's FP so popular?
 
 <-->
 
-<section tagcloud>
+<section tagcloud large>
     Reactive programming
     Microservices
     Cloud
@@ -29,15 +29,17 @@
     Promises/Observables
     Stateless
     Immutability
+    Lazy Evaluation
+    Avoid Nesting
 </section>
 
 <--->
 
-## Java 8 to the rescue
+## Java 8 allows FP!
 
 * Streaming API
 * Functional Interfaces
-* Optional Datatype
+* Optional Type
 
 <-->
 
@@ -46,7 +48,8 @@ List<String> list = Arrays.asList(
     null, "anna", "bernd", "chris", "");
 String result = list
     .stream()
-    .filter(word -> word != null && !word.isEmpty())
+    .filter(word -> word != null)
+    .filter(word -> !word.isEmpty())
     .map(String::toUpperCase)
     .collect(Collectors.joining(", "));
 // result = "ANNA, BERND, CHRIS";
@@ -66,13 +69,15 @@ String result = Optional
 
 ## Collect too complicated
 
+* allows converting to Map, List, Group, Set, String
+* violates SRP 😞
+
 <-->
 
 ```java
 Map<Character, Long> countChars = sentence
     .chars()
-    .boxed()<!-- .slide: data-background-image="resources/DATEV-SCC-Logo.png" -->
-
+    .boxed()
     .map(i -> (char)i.intValue())
     .collect(Collectors.groupingBy(
         Function.identity(), Collectors.counting()));
@@ -85,28 +90,28 @@ Map<Character, Long> countChars = sentence
 <-->
 
 <section tagcloud large>
-Either
-Try
-Lazy
-Future
-ordered reduce/fold
-unfold
-indexed operations
-reverse
-cycle
-range
-append/prepend
-partial application
-currying
-zipping
-memoization
+    Either
+    Try
+    Lazy
+    Future
+    ordered reduce/fold
+    unfold
+    indexed operations
+    reverse
+    cycle
+    range
+    append/prepend
+    partial application
+    currying
+    zipping
+    memoization
 </section>
 
 <--->
 
 ![noborder-icon](resources/vavr.png)
 
-* pronounce as **waver**
+* pronounce as **"waver"**
 * first version 2015
 * heavily inspired by Scala
 * FP collections & data types
@@ -120,5 +125,5 @@ memoization
 # Interesting stuff
 
 - <i class="fa fa-github" aria-hidden="true"></i>&nbsp;[My GitHub Repo with slides and code](https://github.com/enolive/java-goes-modern)
-- <i class="fa fa-youtube" aria-hidden="true"></i>&nbsp;[Let's get lazy by Venkat Subramanian](https://www.youtube.com/watch?v=F73kB4XZQ4I)
-- <i class="fa fa-youtube" aria-hidden="true"></i>&nbsp;[What every Hipster should know about Functional Programming by Bodil Stokke](https://www.youtube.com/watch?v=mGw_M4PN0iY&t=6shttps://www.youtube.com/watch?v=mGw_M4PN0iY&t=6s)
+- <i class="fa fa-youtube" aria-hidden="true"></i>&nbsp;[Venkat Subramanian: Let's get lazy](https://www.youtube.com/watch?v=F73kB4XZQ4I)
+- <i class="fa fa-youtube" aria-hidden="true"></i>&nbsp;[Bodil Stokke: What every Hipster should know about Functional Programming](https://www.youtube.com/watch?v=mGw_M4PN0iY&t=6shttps://www.youtube.com/watch?v=mGw_M4PN0iY&t=6s)
