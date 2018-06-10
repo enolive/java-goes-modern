@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92366210-38ab-4b9e-93ca-b3452352bf37" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="92366210-38ab-4b9e-93ca-b3452352bf37" name="Default" comment="removed workspace from source control">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ArabicToRomanConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RomanNumbersConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RomanNumbersConverterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.7/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.7/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.7/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/vcsWorkingDirs/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -24,57 +33,40 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/settings.gradle">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/.name">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="55" column="18" selection-start-line="55" selection-start-column="18" selection-end-line="55" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="168">
-                <caret line="8" column="85" selection-start-line="8" selection-start-column="85" selection-end-line="8" selection-end-column="85" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/test/java/RomanNumbersConverterTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="550">
+                  <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/RomanNumbersConverter.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="325">
+                  <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -397,9 +389,11 @@
         <option value="$PROJECT_DIR$/src/test/java/RomanToArabicTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/RomanConverterTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/RomanToArabicConversion.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ArabicToRomanConversion.java" />
         <option value="$PROJECT_DIR$/src/main/java/RomanConverter.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/test/java/RomanNumbersConverterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ArabicToRomanConversion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/RomanNumbersConverter.java" />
       </list>
     </option>
   </component>
@@ -617,12 +611,360 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectUserFactors">
+    <factor id="binaryFeature:liftShorter">
+      <dailyData date="10-6-2018">
+        <observation name="false" value="105,0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:liftShorterClasses">
+      <dailyData date="10-6-2018">
+        <observation name="UNDEFINED" value="6,0" />
+        <observation name="false" value="99,0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:middleMatching">
+      <dailyData date="10-6-2018">
+        <observation name="false" value="105,0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:nonGeneric">
+      <dailyData date="10-6-2018">
+        <observation name="0" value="53,0" />
+        <observation name="1" value="1,0" />
+        <observation name="UNDEFINED" value="51,0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_inResolveScope">
+      <dailyData date="10-6-2018">
+        <observation name="UNDEFINED" value="3,0" />
+        <observation name="false" value="33,0" />
+        <observation name="true" value="69,0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_openedInEditor">
+      <dailyData date="10-6-2018">
+        <observation name="UNDEFINED" value="3,0" />
+        <observation name="false" value="68,0" />
+        <observation name="true" value="34,0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_sameDirectory">
+      <dailyData date="10-6-2018">
+        <observation name="UNDEFINED" value="3,0" />
+        <observation name="false" value="65,0" />
+        <observation name="true" value="37,0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_sameLogicalRoot">
+      <dailyData date="10-6-2018">
+        <observation name="UNDEFINED" value="3,0" />
+        <observation name="false" value="65,0" />
+        <observation name="true" value="37,0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_sdkOrLibrary">
+      <dailyData date="10-6-2018">
+        <observation name="UNDEFINED" value="3,0" />
+        <observation name="false" value="101,0" />
+        <observation name="true" value="1,0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:templates">
+      <dailyData date="10-6-2018">
+        <observation name="false" value="102,0" />
+        <observation name="true" value="3,0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:accessible">
+      <dailyData date="10-6-2018">
+        <observation name="NORMAL" value="102,0" />
+        <observation name="UNDEFINED" value="3,0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:expectedType">
+      <dailyData date="10-6-2018">
+        <observation name="UNDEFINED" value="3,0" />
+        <observation name="expected" value="40,0" />
+        <observation name="maybeExpected" value="2,0" />
+        <observation name="normal" value="60,0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:kind">
+      <dailyData date="10-6-2018">
+        <observation name="UNDEFINED" value="3,0" />
+        <observation name="annoMethod" value="1,0" />
+        <observation name="classNameOrGlobalStatic" value="9,0" />
+        <observation name="expectedTypeMethod" value="2,0" />
+        <observation name="expectedTypeVariable" value="18,0" />
+        <observation name="normal" value="49,0" />
+        <observation name="probableKeyword" value="4,0" />
+        <observation name="suitableClass" value="4,0" />
+        <observation name="variable" value="15,0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:prox_groovyReferenceListWeigher">
+      <dailyData date="10-6-2018">
+        <observation name="UNDEFINED" value="3,0" />
+        <observation name="unknown" value="102,0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:prox_javaInheritance">
+      <dailyData date="10-6-2018">
+        <observation name="UNDEFINED" value="3,0" />
+        <observation name="false" value="11,0" />
+        <observation name="null" value="89,0" />
+        <observation name="true" value="2,0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:prox_referenceList">
+      <dailyData date="10-6-2018">
+        <observation name="UNDEFINED" value="3,0" />
+        <observation name="unknown" value="102,0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:recursion">
+      <dailyData date="10-6-2018">
+        <observation name="UNDEFINED" value="25,0" />
+        <observation name="normal" value="76,0" />
+        <observation name="recursive" value="4,0" />
+      </dailyData>
+    </factor>
+    <factor id="completionFinishedType">
+      <dailyData date="10-6-2018">
+        <observation name="cancelled" value="207,0" />
+        <observation name="explicitSelect" value="83,0" />
+        <observation name="typedSelect" value="26,0" />
+      </dailyData>
+    </factor>
+    <factor id="completionType">
+      <dailyData date="10-6-2018">
+        <observation name="BASIC" value="113,0" />
+      </dailyData>
+    </factor>
+    <factor id="completionUsage">
+      <dailyData date="10-6-2018">
+        <observation name="count" value="316,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:explicitProximity">
+      <dailyData date="10-6-2018">
+        <observation name="average" value="0,143541" />
+        <observation name="count" value="209,0" />
+        <observation name="max" value="1,0" />
+        <observation name="min" value="0,0" />
+        <observation name="variance" value="0,10973" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:grouping">
+      <dailyData date="10-6-2018">
+        <observation name="average" value="0,0" />
+        <observation name="count" value="209,0" />
+        <observation name="max" value="0,0" />
+        <observation name="min" value="0,0" />
+        <observation name="variance" value="0,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:mostUsed">
+      <dailyData date="10-6-2018">
+        <observation name="UNDEFINED" value="78,0" />
+        <observation name="average" value="-4,226415" />
+        <observation name="count" value="53,0" />
+        <observation name="max" value="0,0" />
+        <observation name="min" value="-83,0" />
+        <observation name="variance" value="150,822835" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:nameEnd">
+      <dailyData date="10-6-2018">
+        <observation name="UNDEFINED" value="3,0" />
+        <observation name="average" value="-0,059113" />
+        <observation name="count" value="203,0" />
+        <observation name="max" value="0,0" />
+        <observation name="min" value="-1,0" />
+        <observation name="variance" value="0,037614" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:position">
+      <dailyData date="10-6-2018">
+        <observation name="average" value="0,105263" />
+        <observation name="count" value="209,0" />
+        <observation name="max" value="2,0" />
+        <observation name="min" value="0,0" />
+        <observation name="variance" value="0,099735" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prefix">
+      <dailyData date="10-6-2018">
+        <observation name="average" value="-1072,760766" />
+        <observation name="count" value="209,0" />
+        <observation name="max" value="0,0" />
+        <observation name="min" value="-1202,0" />
+        <observation name="variance" value="49065,258618" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:priority">
+      <dailyData date="10-6-2018">
+        <observation name="average" value="0,0" />
+        <observation name="count" value="209,0" />
+        <observation name="max" value="0,0" />
+        <observation name="min" value="0,0" />
+        <observation name="variance" value="0,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_explicitlyImported">
+      <dailyData date="10-6-2018">
+        <observation name="UNDEFINED" value="3,0" />
+        <observation name="average" value="113,300493" />
+        <observation name="count" value="203,0" />
+        <observation name="max" value="400,0" />
+        <observation name="min" value="0,0" />
+        <observation name="variance" value="16357,237397" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_knownElement">
+      <dailyData date="10-6-2018">
+        <observation name="UNDEFINED" value="3,0" />
+        <observation name="average" value="0,128079" />
+        <observation name="count" value="203,0" />
+        <observation name="max" value="8,0" />
+        <observation name="min" value="0,0" />
+        <observation name="variance" value="1,367413" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_sameModule">
+      <dailyData date="10-6-2018">
+        <observation name="UNDEFINED" value="3,0" />
+        <observation name="average" value="0,738916" />
+        <observation name="count" value="203,0" />
+        <observation name="max" value="2,0" />
+        <observation name="min" value="0,0" />
+        <observation name="variance" value="0,748094" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_samePsiMember">
+      <dailyData date="10-6-2018">
+        <observation name="UNDEFINED" value="3,0" />
+        <observation name="average" value="0,610837" />
+        <observation name="count" value="203,0" />
+        <observation name="max" value="2,0" />
+        <observation name="min" value="0,0" />
+        <observation name="variance" value="0,651851" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:query_length">
+      <dailyData date="10-6-2018">
+        <observation name="average" value="0,0" />
+        <observation name="count" value="209,0" />
+        <observation name="max" value="0,0" />
+        <observation name="min" value="0,0" />
+        <observation name="variance" value="0,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:result_length">
+      <dailyData date="10-6-2018">
+        <observation name="average" value="6,133971" />
+        <observation name="count" value="209,0" />
+        <observation name="max" value="25,0" />
+        <observation name="min" value="2,0" />
+        <observation name="variance" value="16,399228" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:sameWords">
+      <dailyData date="10-6-2018">
+        <observation name="UNDEFINED" value="3,0" />
+        <observation name="average" value="-0,08867" />
+        <observation name="count" value="203,0" />
+        <observation name="max" value="0,0" />
+        <observation name="min" value="-1,0" />
+        <observation name="variance" value="0,056986" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:shorter">
+      <dailyData date="10-6-2018">
+        <observation name="UNDEFINED" value="3,0" />
+        <observation name="average" value="-59,034483" />
+        <observation name="count" value="203,0" />
+        <observation name="max" value="0,0" />
+        <observation name="min" value="-999,0" />
+        <observation name="variance" value="37514,063822" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:simple">
+      <dailyData date="10-6-2018">
+        <observation name="UNDEFINED" value="3,0" />
+        <observation name="average" value="0,0" />
+        <observation name="count" value="203,0" />
+        <observation name="max" value="0,0" />
+        <observation name="min" value="0,0" />
+        <observation name="variance" value="0,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:sorter">
+      <dailyData date="10-6-2018">
+        <observation name="average" value="1,0" />
+        <observation name="count" value="209,0" />
+        <observation name="max" value="1,0" />
+        <observation name="min" value="1,0" />
+        <observation name="variance" value="0,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:statics">
+      <dailyData date="10-6-2018">
+        <observation name="UNDEFINED" value="78,0" />
+        <observation name="average" value="-3,301887" />
+        <observation name="count" value="53,0" />
+        <observation name="max" value="-3,0" />
+        <observation name="min" value="-5,0" />
+        <observation name="variance" value="0,378152" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:stats">
+      <dailyData date="10-6-2018">
+        <observation name="average" value="3826,0" />
+        <observation name="count" value="209,0" />
+        <observation name="max" value="10000,0" />
+        <observation name="min" value="0,0" />
+        <observation name="variance" value="20636797,610464" />
+      </dailyData>
+    </factor>
+    <factor id="itemPosition">
+      <dailyData date="10-6-2018">
+        <observation name="0" value="73,0" />
+        <observation name="1" value="8,0" />
+        <observation name="2" value="2,0" />
+      </dailyData>
+    </factor>
+    <factor id="mnemonicsUsage">
+      <dailyData date="10-6-2018">
+        <observation name="total" value="56,0" />
+        <observation name="withMnemonics" value="2,0" />
+      </dailyData>
+    </factor>
+    <factor id="prefixLength">
+      <dailyData date="10-6-2018">
+        <observation name="0" value="8,0" />
+        <observation name="1" value="19,0" />
+        <observation name="2" value="31,0" />
+        <observation name="3" value="17,0" />
+        <observation name="4" value="7,0" />
+        <observation name="5" value="1,0" />
+      </dailyData>
+    </factor>
+    <factor id="timeBetweenTyping">
+      <dailyData date="10-6-2018">
+        <observation name="average" value="197,965278" />
+        <observation name="count" value="144,0" />
+      </dailyData>
+    </factor>
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -651,14 +993,15 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/.idea/gradle.xml" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
+    <property name="full.screen.before.presentation.mode" value="false" />
     <property name="ghcModFlags" value="" />
     <property name="ghcModPath" value="$USER_HOME$/.cabal/bin/ghc-mod" />
     <property name="ghcModiFlags" value=" legacy-interactive" />
@@ -674,13 +1017,16 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
     <property name="stylishHaskellFlags" value="" />
     <property name="stylishHaskellPath" value="$USER_HOME$/.cabal/bin/stylish-haskell" />
   </component>
   <component name="RecentsManager">
     <key name="MoveMembersDialog.RECENTS_KEY">
       <recent name="RomanConverter.ArabicToRomanConversion" />
+    </key>
+    <key name="MoveInnerDialog.RECENTS_KEY">
+      <recent name="" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
@@ -699,6 +1045,55 @@
     </option>
   </component>
   <component name="RunManager" selected="JUnit.All in roman-numbers_test">
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1528655877359" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+      </Profilers>
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1528655877360" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -764,6 +1159,7 @@
       <workItem from="1527012959480" duration="24000" />
       <workItem from="1527294897886" duration="4044000" />
       <workItem from="1528652963926" duration="34000" />
+      <workItem from="1528654050571" duration="1532000" />
     </task>
     <task id="LOCAL-00001" summary="basic setup">
       <created>1526050374987</created>
@@ -954,49 +1350,56 @@
       <option name="project" value="LOCAL" />
       <updated>1527298191545</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="removed workspace from source control">
+      <created>1528653800331</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1528653800331</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_in_roman-numbers_test - 2018.05.26 at 03h 22m 41s.xml">
+    <history-entry file="All_in_roman-numbers_test - 2018.06.10 at 20h 26m 46s.xml">
       <configuration name="All in roman-numbers_test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_roman-numbers_test - 2018.05.26 at 03h 22m 55s.xml">
+    <history-entry file="All_in_roman-numbers_test - 2018.06.10 at 20h 27m 03s.xml">
       <configuration name="All in roman-numbers_test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_roman-numbers_test - 2018.05.26 at 03h 23m 13s.xml">
+    <history-entry file="All_in_roman-numbers_test - 2018.06.10 at 20h 27m 50s.xml">
       <configuration name="All in roman-numbers_test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_roman-numbers_test - 2018.05.26 at 03h 27m 15s.xml">
+    <history-entry file="All_in_roman-numbers_test - 2018.06.10 at 20h 29m 10s.xml">
       <configuration name="All in roman-numbers_test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_roman-numbers_test - 2018.05.26 at 03h 29m 01s.xml">
+    <history-entry file="All_in_roman-numbers_test - 2018.06.10 at 20h 29m 25s.xml">
       <configuration name="All in roman-numbers_test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_roman-numbers_test - 2018.05.26 at 03h 29m 15s.xml">
+    <history-entry file="All_in_roman-numbers_test - 2018.06.10 at 20h 29m 54s.xml">
       <configuration name="All in roman-numbers_test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_roman-numbers_test - 2018.05.26 at 03h 29m 25s.xml">
+    <history-entry file="All_in_roman-numbers_test - 2018.06.10 at 20h 31m 15s.xml">
       <configuration name="All in roman-numbers_test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_roman-numbers_test - 2018.05.26 at 03h 29m 51s.xml">
+    <history-entry file="All_in_roman-numbers_test - 2018.06.10 at 20h 31m 49s.xml">
       <configuration name="All in roman-numbers_test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_roman-numbers_test - 2018.06.10 at 19h 59m 52s.xml">
+    <history-entry file="All_in_roman-numbers_test - 2018.06.10 at 20h 32m 17s.xml">
       <configuration name="All in roman-numbers_test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_roman-numbers_test - 2018.06.10 at 19h 59m 59s.xml">
+    <history-entry file="All_in_roman-numbers_test - 2018.06.10 at 20h 33m 02s.xml">
       <configuration name="All in roman-numbers_test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15218000" />
+    <option name="totallyTimeSpent" value="17012000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="27" width="1853" height="1053" extended-state="6" />
+    <frame x="0" y="-28" width="1920" height="1108" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.257886" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.26065302" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -1005,16 +1408,16 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4980631" weight="0.32998884" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49739584" visible="true" weight="0.3287037" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4997233" weight="0.39910814" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Build" order="7" sideWeight="0.4997233" weight="0.32887402" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5002767" side_tool="true" weight="0.32925472" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.5019369" side_tool="true" weight="0.32998884" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4997233" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50249034" side_tool="true" weight="0.3288889" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.5026042" side_tool="true" weight="0.3287037" />
       <window_info anchor="bottom" auto_hide="true" id="Problems" order="12" sideWeight="0.5002767" side_tool="true" weight="0.32998884" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="14" sideWeight="0.4997233" weight="0.32998884" />
@@ -1032,6 +1435,43 @@
       <window_info anchor="right" id="Palette&#9;" order="11" />
       <window_info anchor="right" id="Theme Preview" order="12" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26065302" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4975097" visible="true" weight="0.3288889" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4997233" weight="0.39910814" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.4997233" weight="0.32887402" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4997233" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50249034" side_tool="true" weight="0.3288889" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.5019369" side_tool="true" weight="0.32998884" />
+      <window_info anchor="bottom" auto_hide="true" id="Problems" order="12" sideWeight="0.5002767" side_tool="true" weight="0.32998884" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" sideWeight="0.4997233" weight="0.32998884" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="PlantUML" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="sbt" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Key Promoter X" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Gradle" order="9" />
+      <window_info anchor="right" id="Database" order="10" />
+      <window_info anchor="right" id="Palette&#9;" order="11" />
+      <window_info anchor="right" id="Theme Preview" order="12" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -1071,7 +1511,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/../.." />
     </ignored-roots>
-    <MESSAGE value="conversion to arabic functional style" />
     <MESSAGE value="implemented additional rules and replaced tuple with explicit data class" />
     <MESSAGE value="implemented complete ruleset" />
     <MESSAGE value="started wih roman to arabic" />
@@ -1096,7 +1535,8 @@
     <MESSAGE value="merged test classes and used params" />
     <MESSAGE value="- heavy optimization (by factor of 40) by using Lists instead of Strings for arabic to roman&#10;&#10;Some tweaks such as&#10;- using tuples instead of own value class&#10;- using cycle instead of repeat&#10;- using prepend instead of append to save ourselves from a parentheses hell" />
     <MESSAGE value="foldr instead of foldl" />
-    <option name="LAST_COMMIT_MESSAGE" value="foldr instead of foldl" />
+    <MESSAGE value="removed workspace from source control" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed workspace from source control" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jrt:///usr/lib/jvm/default-java!/java.base/java/util/stream/ReferencePipeline.class">
@@ -1141,7 +1581,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/RomanConverterTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/RomanConverter.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/ArabicToRomanConversion.java" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1155,8 +1594,71 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/RomanToArabicConversion.java" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="55" column="18" selection-start-line="55" selection-start-column="18" selection-end-line="55" selection-end-column="18" />
+        <state relative-caret-position="21">
+          <caret line="1" column="22" lean-forward="true" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/.name">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#24153#24157#0" expanded="true" />
+            <element signature="e#24163#24167#0" expanded="true" />
+            <element signature="e#24246#24250#0" expanded="true" />
+            <element signature="e#24256#24260#0" expanded="true" />
+            <element signature="e#24348#24352#0" expanded="true" />
+            <element signature="e#24358#24362#0" expanded="true" />
+            <element signature="e#24441#24445#0" expanded="true" />
+            <element signature="e#24451#24455#0" expanded="true" />
+            <element signature="e#24531#24535#0" expanded="true" />
+            <element signature="e#24541#24545#0" expanded="true" />
+            <element signature="e#24556#24560#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/gradle.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/RomanNumbersConverterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ArabicToRomanConversion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RomanNumbersConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
