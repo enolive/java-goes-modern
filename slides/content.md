@@ -94,6 +94,7 @@ Map<Character, Long> countChars = sentence
     Try
     Lazy
     Future
+    Tuple
     ordered reduce/fold
     unfold
     indexed operations
