@@ -2,10 +2,10 @@ import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-class RomanNumbersConverterTest {
+class RomanConverterTest {
     @Test
     void convertToEmpty() {
-        var converter = new RomanNumbersConverter();
+        var converter = new RomanConverter();
         assertThat(converter.toRoman(0)).isEmpty();
     }
 }
