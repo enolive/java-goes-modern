@@ -11,6 +11,10 @@
 
 <!-- .slide: data-background-image="resources/fp-club.png" -->
 
+Note: 
+- Image &copy; Fight Club (1999)
+- Monad Curse: as soon you understood what a monad is, you lose the ability to explain it to others!
+
 <-->
 
 ## Why's FP so popular?
@@ -33,6 +37,8 @@
     Avoid Nesting
 </section>
 
+Note: readability and easy execution on multiple threads/machines
+
 <--->
 
 ## Java 8 allows FP!
@@ -46,6 +52,7 @@
 ```java
 List<String> list = Arrays.asList(
     null, "anna", "bernd", "chris", "");
+
 String result = list
     .stream()
     .filter(word -> word != null)
@@ -59,10 +66,13 @@ String result = list
 
 ```java
 String input = ...;
+
 String result = Optional
     .ofNullable(input)
     .filter(i -> !i.isEmpty())
     .orElseGet(() -> "default value");
+// result = "default value"; when input is null or empty
+// result = input; otherwise
 ```
 
 <--->
@@ -75,6 +85,8 @@ String result = Optional
 <-->
 
 ```java
+String sentence = ...;
+
 Map<Character, Long> countChars = sentence
     .chars()
     .boxed()
@@ -103,6 +115,7 @@ Map<Character, Long> countChars = sentence
     range
     append/prepend
     partial application
+    function composition
     currying
     zipping
     memoization
@@ -117,14 +130,17 @@ Map<Character, Long> countChars = sentence
 * heavily inspired by Scala
 * FP collections & data types
 
-<--->
-
-## Coding
+Note: all vavr types are immutable, of course 
 
 <--->
 
-# Interesting stuff
+## Let's start coding...
 
-- <i class="fa fa-github" aria-hidden="true"></i>&nbsp;[My GitHub Repo with slides and code](https://github.com/enolive/java-goes-modern)
+<--->
+
+## Interesting stuff
+
+- <i class="fa fa-link" aria-hidden="true"></i>&nbsp;[Vavr documenation](https://docs.vavr.io)
 - <i class="fa fa-youtube" aria-hidden="true"></i>&nbsp;[Venkat Subramanian: Let's get lazy](https://www.youtube.com/watch?v=F73kB4XZQ4I)
-- <i class="fa fa-youtube" aria-hidden="true"></i>&nbsp;[Bodil Stokke: What every Hipster should know about Functional Programming](https://www.youtube.com/watch?v=mGw_M4PN0iY&t=6shttps://www.youtube.com/watch?v=mGw_M4PN0iY&t=6s)
+- <i class="fa fa-youtube" aria-hidden="true"></i>&nbsp;[Bodil Stokke: What every Hipster should know about Functional Programming](https://www.youtube.com/watch?v=mGw_M4PN0iY)
+- <i class="fa fa-link" aria-hidden="true"></i>&nbsp;[Marco Emrich: Loops must die! 🇩🇪](https://www.heise.de/developer/artikel/Weg-mit-den-Schleifen-4009774.html?seite=all)
