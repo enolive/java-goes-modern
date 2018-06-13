@@ -1,5 +1,5 @@
-public class RomanNumbersConverter {
-    public String toRoman(int arabic) {
+class RomanNumbersConverter {
+    String toRoman(int arabic) {
         return null;
     }
 }
