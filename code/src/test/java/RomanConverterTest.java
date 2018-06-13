@@ -1,3 +1,4 @@
+import io.vavr.Function1;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Nested;
 import org.junit.jupiter.params.ParameterizedTest;
@@ -181,6 +182,7 @@ class RomanConverterTest {
                 assertThat(converter.toArabic(input)).isEqualTo(expected);
             }
         }
+
         @Nested
         class SubtractionRules {
             @ParameterizedTest
@@ -208,7 +210,11 @@ class RomanConverterTest {
                 1234567890
         })
         void it_should_convert_an_arabic_value_back_and_forth(int input) {
-            assertThat(converter.toArabic(converter.toRoman(input))).isEqualTo(input);
+            final var result = Function1
+                    .of(converter::toRoman)
+                    .andThen(converter::toArabic)
+                    .apply(input);
+            assertThat(result).isEqualTo(input);
         }
     }
 }
