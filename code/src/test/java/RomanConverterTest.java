@@ -109,13 +109,6 @@ class RomanConverterTest {
     @Nested
     class RomanToArabic {
 
-        private RomanConverter converter;
-
-        @BeforeEach
-        void setUp() {
-            converter = new RomanConverter();
-        }
-
         @Nested
         class AdditionRules {
             @ParameterizedTest
