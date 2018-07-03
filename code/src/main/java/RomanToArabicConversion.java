@@ -29,7 +29,7 @@ final class RomanToArabicConversion {
         return apply(rule._1, CharSeq.of(rule._2).toList());
     }
 
-    private RomanToArabicConversion apply(Integer arabic, List<Character> roman) {
+    private RomanToArabicConversion apply(int arabic, List<Character> roman) {
         final var numberOfRomans = Stream
                 .unfoldLeft(input, tryCreateDigit(roman))
                 .length();
