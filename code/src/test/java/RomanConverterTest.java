@@ -204,8 +204,8 @@ class RomanConverterTest {
         })
         void it_should_convert_an_arabic_value_back_and_forth(int input) {
             final var result = Function1
-                    .of(converter::toRoman)
-                    .andThen(converter::toArabic)
+                    .of(converter::toArabic)
+                    .compose(converter::toRoman)
                     .apply(input);
             assertThat(result).isEqualTo(input);
         }
