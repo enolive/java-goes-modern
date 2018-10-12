@@ -3,7 +3,6 @@
 ## going beyond Streaming-API
 
 - <i class="fa fa-user"></i>&nbsp;Christoph Welcz
-- <i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;03.08.2018
 - <i class="fa fa-twitter" aria-hidden="true"></i>&nbsp;[@ChristophWelcz](https://twitter.com/ChristophWelcz)
 - <i class="fa fa-github" aria-hidden="true"></i>&nbsp;[github.com/enolive/java-goes-modern](https://github.com/enolive/java-goes-modern)
 
