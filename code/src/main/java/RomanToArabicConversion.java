@@ -39,8 +39,9 @@ final class RomanToArabicConversion {
     }
 
     private Function<List<Character>, Option<Tuple2<? extends List<Character>, ? extends Integer>>> tryCreateDigit(List<Character> roman) {
-        return remaining -> remaining.startsWith(roman)
-                ? Option.of(Tuple.of(remaining.drop(roman.length()), DOES_NOT_MATTER))
-                : Option.none();
+        return remaining -> Option.of(remaining)
+                                  .filter(r -> r.startsWith(roman))
+                                  .map(r -> r.drop(roman.length()))
+                                  .map(r -> Tuple.of(r, DOES_NOT_MATTER));
     }
 }
