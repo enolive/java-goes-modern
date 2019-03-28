@@ -5,16 +5,18 @@ plugins {
 group 'de.welcz'
 version '1.0-SNAPSHOT'
 
-sourceCompatibility = 1.10
+sourceCompatibility = 1.11
 
 repositories {
     mavenCentral()
 }
 
+test {
+    useJUnitPlatform()
+}
+
 dependencies {
     compile 'io.vavr:vavr:0.+'
     testCompile 'org.assertj:assertj-core:3.+'
-    testCompile 'org.junit.jupiter:junit-jupiter-api:5.+'
-    testCompile 'org.junit.jupiter:junit-jupiter-engine:5.+'
-    testCompile 'org.junit.jupiter:junit-jupiter-params:5.+'
+    testCompile 'org.junit.jupiter:junit-jupiter:5.+'
 }
