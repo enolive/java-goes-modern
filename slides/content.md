@@ -8,10 +8,11 @@
 
 <--->
 
-<!-- .slide: data-background-image="resources/fp-club.png" -->
+<!-- .slide: data-vertical-align-bottom data-background-image="resources/fp-club.png" -->
+
+<span class="copyright">Image &copy; Fight Club (1999)</span>
 
 Note: 
-- Image &copy; Fight Club (1999)
 - Monad Curse: as soon you understood what a monad is, you lose the ability to explain it to others!
 
 <-->

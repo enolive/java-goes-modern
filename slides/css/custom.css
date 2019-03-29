@@ -1,5 +1,16 @@
 /* Code ------------------------------------------------ */
 
+.reveal .slides section[data-vertical-align-bottom]{
+    bottom: 0 !important;
+}
+
+.copyright {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    font-size: 70% !important;
+}
+
 /* Reveal.Js fragments in code: All personal styles must be "registered" here */
 .reveal .slides section .fragment.mycodemark,
 .reveal .slides section .fragment.my-semi-hide {
