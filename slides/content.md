@@ -79,7 +79,7 @@ String result = Optional
 
 ## Collect too complicated
 
-* allows converting to Map, List, Group, Set, String
+* allows converting to Map, List, Group, Set, String, ...
 * violates SRP 😞
 
 <-->
@@ -97,7 +97,7 @@ Map<Character, Long> countChars = sentence
 
 <-->
 
-## Streaming-API too limited
+## Standard-API too limited
 
 <-->
 
@@ -105,17 +105,16 @@ Map<Character, Long> countChars = sentence
     Either
     Try
     Lazy
-    Future
     Tuple
+    Applicative Validation
+    Functions > 2 parameters
     ordered reduce/fold
     unfold
     indexed operations
     reverse
     cycle
-    range
     append/prepend
     partial application
-    function composition
     currying
     zipping
     memoization
@@ -126,7 +125,7 @@ Map<Character, Long> countChars = sentence
 ![noborder-icon](resources/vavr.png)
 
 * pronounce as **"waver"**
-* first version 2015
+* first version 2014
 * heavily inspired by Scala
 * FP collections & data types
 
